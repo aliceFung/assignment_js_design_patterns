@@ -5,6 +5,7 @@
 - If they match, you'll get points! If not, you lose a few points, but keep trying!
 
 ###In this (super easy) version, you:
+- can still play even if you have negative points. Game never end until you match all the pairs! NEVER! :D
 - refresh your page, if you want to play again.
 - do not keep track of past games.
 
